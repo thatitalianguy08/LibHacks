@@ -12,11 +12,11 @@ This modification is mainly command based
 
 - libAddXP: Adds xp to the user.
 
--libSurvival: Sets user to survival gamemode.
+- libSurvival: Sets user to survival gamemode.
 
--libCreative: Sets user to creative gamemode.
+- libCreative: Sets user to creative gamemode.
 
--libHeal: Heals the user to full HP (20).
+- libHeal: Heals the user to full HP (20).
 
 ## Extra
 * This client probably won't be updated any more amd future support will be dropped unless specified otherwise.
